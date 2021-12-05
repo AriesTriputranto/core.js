@@ -445,4 +445,4 @@ const installations = await octokit.paginate("GET /app/installations");
 
 ## LICENSE 
 
-[by-SA 4.0](LICENSE)
+[MIT](LICENSE)
