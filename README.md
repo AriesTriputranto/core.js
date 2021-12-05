@@ -443,6 +443,6 @@ const octokit = new MyActionOctokit();
 const installations = await octokit.paginate("GET /app/installations");
 ```
 
-## LICENSE
+## LICENSE 
 
-[MIT](LICENSE)
+[by-SA 4.0](LICENSE)
